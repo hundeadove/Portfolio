@@ -8,12 +8,12 @@ md ipynb
 * python 
 * pandas
 * numpy
-matplotlib
-sklearn.pipeline
-nltk.stem.WordNetLemmatizer
-sklearn.feature_extraction.text.TfidfVectorizer
-sklearn.linear_model.LogisticRegression
-sklearn.tree.DecisionTreeClassifier
+* matplotlib
+* sklearn.pipeline
+* nltk.stem.WordNetLemmatizer
+* sklearn.feature_extraction.text.TfidfVectorizer
+* sklearn.linear_model.LogisticRegression
+* sklearn.tree.DecisionTreeClassifier
 
 ## Вывод
 Была проведена исследовательская работа по обработке текстов и обучению и выбору модели для определения токсичных комментариев по методу TF-IDF. Выбрана линейная регрессия. На тестовой выборке метрика f1 модели LogisticRegression составила 0.8.
