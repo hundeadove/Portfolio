@@ -1,5 +1,6 @@
 # Анализ текстов
 [md] (https://github.com/hundeadove/Portfolio/blob/main/Text%20Analysis/Text%20analysis.md)  ipynb
+[md]([ссылка](https://github.com/hundeadove/Portfolio/blob/main/Text%20Analysis/Text%20analysis.md))
 
 ## Описание проекта
 Требуется анализировать комментарии пользователей на английском языке и выделять токсичные, чтобы отправить на модерацию.
