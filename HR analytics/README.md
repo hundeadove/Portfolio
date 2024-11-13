@@ -1,5 +1,5 @@
 # HR-аналитика: машинное обучение на службе персонала
-[md](https://github.com/hundeadove/Portfolio/blob/main/Text%20Analysis/Text%20analysis.md)
+[md](https://github.com/hundeadove/Portfolio/blob/main/HR%20analytics/HR%20analytics.md)
 [ipynd](https://github.com/hundeadove/Portfolio/blob/main/HR%20analytics/HR%20analytics.ipynb)
 
 ## Описание проекта
